@@ -1,0 +1,23 @@
+it manager:
+{
+    "id": "12344321",
+    "password": "AdminPass123"
+}
+
+edu manager:
+{
+    "id": "22222222",
+    "password": "PassTest123"
+}
+
+student:
+{
+    "id": "87654321",
+    "password": "PassTest123"
+}
+
+professor:
+{
+    "id":"",
+    "password":""
+}
